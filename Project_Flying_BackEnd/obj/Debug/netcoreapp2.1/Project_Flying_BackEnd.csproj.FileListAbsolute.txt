@@ -1,0 +1,14 @@
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\bin\Debug\netcoreapp2.1\Project_Flying_BackEnd.deps.json
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\bin\Debug\netcoreapp2.1\Project_Flying_BackEnd.runtimeconfig.json
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\bin\Debug\netcoreapp2.1\Project_Flying_BackEnd.runtimeconfig.dev.json
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\bin\Debug\netcoreapp2.1\Project_Flying_BackEnd.dll
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\bin\Debug\netcoreapp2.1\Project_Flying_BackEnd.pdb
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.csprojAssemblyReference.cache
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.csproj.CoreCompileInputs.cache
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.RazorAssemblyInfo.cache
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.RazorAssemblyInfo.cs
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.AssemblyInfoInputs.cache
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.AssemblyInfo.cs
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.RazorTargetAssemblyInfo.cache
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.dll
+C:\Users\BOUDISS\source\repos\Project_Flying_BackEnd\Project_Flying_BackEnd\obj\Debug\netcoreapp2.1\Project_Flying_BackEnd.pdb
